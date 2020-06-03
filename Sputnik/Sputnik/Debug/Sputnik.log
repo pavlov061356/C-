@@ -1,0 +1,10 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  Trajectory2D.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\yvals.h(215): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+d:\моделирование\sputnik_students\sputnik\trajectory2d.cpp(37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  sputnikSolver.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\yvals.h(215): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+  Создание кода...
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  AssemblyInfo.obj : юсэрЁєцхэ ьюфєы№ MSIL; фы  MSIL яюёыхфютрЄхы№эр  ъюьяюэютър юЄъы■ўхэр; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  Sputnik.vcxproj -> D:\Моделирование\Sputnik_students\Debug\Sputnik.exe
